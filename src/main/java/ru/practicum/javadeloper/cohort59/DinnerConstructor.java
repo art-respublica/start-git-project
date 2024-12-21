@@ -6,7 +6,7 @@ import java.util.*;
 public class DinnerConstructor {
 
     Map<String, List<String>> dishes = new HashMap<>();
-    Random random = new SecureRandom();
+    Random random = new Random();
 
     public void addNewDish(String dishType, String dishName) {
         if (dishes.containsKey(dishType)) {
