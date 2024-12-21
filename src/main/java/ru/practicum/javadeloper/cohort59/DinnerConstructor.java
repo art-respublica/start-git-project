@@ -17,7 +17,8 @@ public class DinnerConstructor {
         }
 
         dishes.putIfAbsent(dishType, new ArrayList<>());
-        dishes.get(dishType).add(dishName);
+        dishes.get(dishType)
+                .add(dishName);
     }
 
     public boolean checkType(String type) {
