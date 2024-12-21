@@ -1,6 +1,5 @@
 package ru.practicum.javadeloper.cohort59;
 
-import java.security.SecureRandom;
 import java.util.*;
 
 public class DinnerConstructor {
