@@ -1,5 +1,7 @@
 # cohort59-start-git-project
-Учебный проект взаимодействия с git
+Учебный проект взаимодействия с git + 1
+
+#4
 
 # 1 Клонируем проект
 git clone git@github.com:art-respublica/cohort59-start-git-project.git
