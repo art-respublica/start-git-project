@@ -6,6 +6,9 @@ import java.util.Scanner;
 
 public class Main {
 
+    /**
+     * Шестой спринт
+     */
     static DinnerConstructor dc;
     static Scanner scanner;
 
