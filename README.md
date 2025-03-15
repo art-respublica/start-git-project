@@ -34,5 +34,18 @@ git push origin dishes-constructor
 # 9 Создать pull request
 В репозитории на github
 
+# 10 синхронизировать изменения в удаленном и локальном репозитории
+git fetch -all
+
+# 11 отменить последний коммит
+git revert
+git reset
+git rebase 
+
+
+
+
+
+
 
 
