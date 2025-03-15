@@ -41,11 +41,3 @@ git fetch -all
 git revert
 git reset
 git rebase 
-
-
-
-
-
-
-
-
