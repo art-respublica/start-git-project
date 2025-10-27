@@ -1,4 +1,4 @@
-# cohort59-start-git-project
+# start-git-project
 Учебный проект взаимодействия с git
 
 # 1 Клонируем проект
@@ -7,7 +7,7 @@ git clone git@github.com:art-respublica/cohort59-start-git-project.git
 # 2 Создаем структуру проекта
 Добавляем 4 папки src/main/java..,
 модифицируем project structure,
-создаем пакет ru.practicum.javadeveloper.cohort59
+создаем пакет ru.practicum.javadeveloper.cohort
 
 # 3 Создаем новую ветку
 git checkout -b dishes-constructor
