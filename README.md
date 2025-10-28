@@ -1,10 +1,10 @@
 # start-git-project
-Учебный проект взаимодействия с git + 1
+Учебный проект взаимодействия с git
 
 #4
 
 # 1 Клонируем проект
-git clone git@github.com:art-respublica/cohort59-start-git-project.git
+git clone git@github.com:art-respublica/start-git-project.git
 
 # 2 Создаем структуру проекта
 Добавляем 4 папки src/main/java..,
